@@ -1,10 +1,7 @@
 # telegram-bot-reminder
-This project is a simple Telegram bot that sends reminders to users.
-# Project Title
 
 ## Description
-A short description of what your project does.  
-Example: *This project is a simple Telegram bot that sends reminders to users.*
+This project is a simple Telegram bot that sends reminders to users. 
 
 ## Technologies
 - Python
