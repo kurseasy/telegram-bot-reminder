@@ -1,7 +1,6 @@
 # telegram-bot-reminder
 
-## Description
-This project is a simple Telegram bot that sends reminders to users. 
+## This project is a simple Telegram bot that sends reminders to users. 
 
 ## Technologies
 - Python
