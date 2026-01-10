@@ -10,10 +10,10 @@ This project is a simple Telegram bot that sends reminders to users.
 - Git
 
 ## Features
-- Add new items (students, grades, reminders)
-- View stored data
-- Calculate statistics (average grade, etc.)
-- Notifications or outputs
+- Add new reminders with custom text and date/time
+- View and manage stored reminders (list, edit, delete)
+- Restore pending reminders from the database after restart
+- Send timely notifications to users when reminders are due
 
 ## How to Run
 1. Clone the repository:
